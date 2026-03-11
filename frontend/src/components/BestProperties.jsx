@@ -1,10 +1,10 @@
 import { FiMapPin, FiStar, FiHeart, FiShare2 } from 'react-icons/fi'
 import { useState } from 'react'
 import ProductCard from './ProductCard'
-import frame13 from '../assets/frame-13.png'
-import frame14 from '../assets/frame-14.png'
-import frame15 from '../assets/frame-15.png'
-import frame16 from '../assets/frame-16.png'
+import frame13 from '../assets/Frame-13.png'
+import frame14 from '../assets/Frame-14.png'
+import frame15 from '../assets/Frame-15.png'
+import frame16 from '../assets/Frame-16.png'
 
 export default function BestProperties() {
   const [liked, setLiked] = useState({})

@@ -1,8 +1,8 @@
 import FeatureCards from './FeatureCards'
-import frame1 from '../assets/frame-1.png'
-import frame2 from '../assets/frame-2.png'
-import frame3 from '../assets/frame-3.png'
-import frame4 from '../assets/frame-4.png'
+import frame1 from '../assets/Frame-1.png'
+import frame2 from '../assets/Frame-2.png'
+import frame3 from '../assets/Frame-3.png'
+import frame4 from '../assets/Frame-4.png'
 
 export default function GuestStay() {
   const properties = [

@@ -1,12 +1,12 @@
 import ProductCard from './ProductCard'
-import frame5 from '../assets/frame-5.png'
-import frame6 from '../assets/frame-6.png'
-import frame7 from '../assets/frame-7.png'
-import frame8 from '../assets/frame-8.png'
-import frame9 from '../assets/frame-9.png'
-import frame10 from '../assets/frame-10.png'
-import frame11 from '../assets/frame-11.png'
-import frame12 from '../assets/frame-12.png'
+import frame5 from '../assets/Frame-5.png'
+import frame6 from '../assets/Frame-6.png'
+import frame7 from '../assets/Frame-7.png'
+import frame8 from '../assets/Frame-8.png'
+import frame9 from '../assets/Frame-9.png'
+import frame10 from '../assets/Frame-10.png'
+import frame11 from '../assets/Frame-11.png'
+import frame12 from '../assets/Frame-12.png'
 
 export default function TrendingProperties() {
   const properties = [
